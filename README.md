@@ -30,7 +30,7 @@ This module is pivotal in quantitative trading, as data quality directly affects
 - **Data Storage**: Archives processed data in databases or data structures for retrieval.
 - **Data Update**: Ensures continual synchronization with real-time market conditions.
 
-### Signal Generation Module in Quantitative Trading Systems
+### Signal Generation Module
 
 In a quantitative trading system, the **Signal Generation Module** plays a pivotal role in identifying trading opportunities by generating trading signals. This module serves the primary purpose of translating market data into actionable signals, helping traders or algorithms make informed buy or sell decisions. The significance of the Signal Generation Module lies in its ability to systematically analyze data, apply predefined strategies, and provide clear directives for executing trades.
 
