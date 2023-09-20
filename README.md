@@ -47,3 +47,7 @@ In a quantitative trading system, the **Signal Generation Module** plays a pivot
 5. **Risk Management**: A critical aspect of signal generation is risk management. This component ensures that trading signals are generated with risk considerations in mind, such as position sizing, stop-loss orders, and risk limits.
 
 6. **Backtesting**: Before deploying signals in live trading, they are rigorously tested using historical data. Backtesting assesses the performance of the signals under different market conditions, helping fine-tune strategies and identify potential flaws.
+
+
+## Development Reference
+Open Source quant relevant repository summary: [Link](https://github.com/charliedream1/ai_quant_trade)
