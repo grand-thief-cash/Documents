@@ -49,8 +49,13 @@ In a quantitative trading system, the **Signal Generation Module** plays a pivot
 6. **Backtesting**: Before deploying signals in live trading, they are rigorously tested using historical data. Backtesting assesses the performance of the signals under different market conditions, helping fine-tune strategies and identify potential flaws.
 
 
-## Development Reference
+## Useful Links
 ### Open Source quant relevant repositories summary:
 - ai_quant_trade [link](https://github.com/charliedream1/ai_quant_trade)
 - awesome-quant [link](https://github.com/thuquant/awesome-quant)
 
+### Tutorial
+- Azure Devops [link](https://learn.microsoft.com/en-us/azure/devops/organizations/settings/work/change-process-basic-to-agile?view=azure-devops)
+
+### Project Management
+- Azure Devops [link](https://dev.azure.com/grand-thief-cash/data-fetcher/_workitems/recentlycreated/)
