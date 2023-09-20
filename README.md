@@ -50,4 +50,7 @@ In a quantitative trading system, the **Signal Generation Module** plays a pivot
 
 
 ## Development Reference
-Open Source quant relevant repository summary: [Link](https://github.com/charliedream1/ai_quant_trade)
+### Open Source quant relevant repositories summary:
+- ai_quant_trade [link](https://github.com/charliedream1/ai_quant_trade)
+- awesome-quant [link](https://github.com/thuquant/awesome-quant)
+
