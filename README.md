@@ -2,6 +2,19 @@
 
 # Background
 
+# Knowledge Base
+
+## Economics
+### Micro Economics
+MIT1401 Micro Economic [LINK](https://www.bilibili.com/video/BV1oo4y1o7nZ/?spm_id_from=333.337.search-card.all.click&vd_source=7880edeb390f6ef3f8bdd4ce778050f3)
+
+## Stragegies Learn
+- 你见过哪些耳目一新的量化交易策略？ - 量化QuantBoy的回答 - 知乎
+https://www.zhihu.com/question/264155185/answer/3104262214
+- 基于套利定价理论的七因子策略
+https://mp.weixin.qq.com/s/HpRKPW6bGNTXoCXmZdK8ow
+- 
+
 # Team & Coop
 
 ## Understand Azure Devops
